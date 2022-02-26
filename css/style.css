@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+.dddd {
+    color: brown;
+    display: inline-block;
+    margin-left: 15%;
+    width: 20%;
+    overflow-wrap: break-word;
+}
+
+.link {
+    color: black;
+    text-decoration: underline dotted;
+    background-color: red;
+}
+
+.logo {
+    height: 100px;
+}
