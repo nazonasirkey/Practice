@@ -19,3 +19,16 @@ body {
 .logo {
     height: 100px;
 }
+
+@media only screen and (max-width: 920px) {
+    body {
+        background-color: yellow;
+    }
+
+    
+}
+
+
+
+
+
